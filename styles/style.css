@@ -5,12 +5,18 @@ body {
 }
 
 .card {
+  /* Centering our card vertically and horizontally */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+
   background-color: white;
   width: 320px;
   height: 499px;
   border: 0;
   border-radius: 20px;
-  margin: auto;
   display: flex;
   flex-direction: column;
   align-items: center;

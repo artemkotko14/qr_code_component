@@ -10,6 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
 - [Continued development](#continued-development)
+- [Useful resources](#useful-resources)
 
 ## Overview
 
@@ -46,3 +47,7 @@ I implemented a hover effect that adds a subtle shadow (using the box-shadow pro
 ### Continued development
 
 In future projects, I want to focus on using Flexbox more extensively for layout and alignment, as it provides a powerful and efficient way to create responsive designs. Its ability to easily control the distribution of space, align items both vertically and horizontally, and adapt layouts across different screen sizes makes it an ideal tool for modern web development. By mastering Flexbox, I can reduce the complexity of CSS, avoid unnecessary workarounds with floats and positioning, and ensure that my designs remain flexible and adaptable to various devices and resolutions.
+
+### Useful resources
+
+- https://www.w3.org/Style/Examples/007/center.en.tmpl#:~:text=Centering%20a%20block%20or%20image&text=The%20way%20to%20do%20that,up%20all%20the%20available%20width. - This helped me with centering my card verically and horizontally
